@@ -1,7 +1,4 @@
 for i in range(10,1,-1):
-    print('$' *  i)
-
-
-
-print(5)
-print(545)
+    print('$' * i)
+for i in range(1,5):
+    print ('salam')
